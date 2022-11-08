@@ -1,0 +1,60 @@
+R version 4.0.3 (2020-10-10)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19044)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252 
+[2] LC_CTYPE=English_United Kingdom.1252   
+[3] LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                           
+[5] LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] stats     graphics 
+[3] grDevices utils    
+[5] datasets  methods  
+[7] base     
+
+other attached packages:
+[1] ggplot2_3.3.5
+
+loaded via a namespace (and not attached):
+ [1] magrittr_2.0.1  
+ [2] splines_4.0.3   
+ [3] tidyselect_1.1.1
+ [4] munsell_0.5.0   
+ [5] lattice_0.20-41 
+ [6] colorspace_2.0-0
+ [7] R6_2.5.0        
+ [8] rlang_0.4.12    
+ [9] fansi_0.4.2     
+[10] dplyr_1.0.7     
+[11] tools_4.0.3     
+[12] grid_4.0.3      
+[13] nlme_3.1-149    
+[14] gtable_0.3.0    
+[15] mgcv_1.8-33     
+[16] xfun_0.22       
+[17] tinytex_0.31    
+[18] utf8_1.1.4      
+[19] DBI_1.1.1       
+[20] withr_2.4.1     
+[21] ellipsis_0.3.2  
+[22] digest_0.6.27   
+[23] assertthat_0.2.1
+[24] tibble_3.1.6    
+[25] lifecycle_1.0.1 
+[26] crayon_1.4.2    
+[27] Matrix_1.2-18   
+[28] farver_2.0.3    
+[29] purrr_0.3.4     
+[30] vctrs_0.3.8     
+[31] glue_1.4.2      
+[32] labeling_0.4.2  
+[33] compiler_4.0.3  
+[34] pillar_1.6.4    
+[35] generics_0.1.1  
+[36] scales_1.1.1    
+[37] pkgconfig_2.0.3 
